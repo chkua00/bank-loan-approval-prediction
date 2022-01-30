@@ -1,6 +1,6 @@
 # Bank Loan Approval Prediction Using Artificial Neural Nets
 
-## Product Structure
+## Tasks
 
 The hands-on project on Bank Loan Approval Prediction Using Artificial Neural Nets is divided into following tasks:
 
