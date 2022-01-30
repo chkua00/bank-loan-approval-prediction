@@ -1,4 +1,4 @@
-# Bank Loan Approval Prediction Using Artificial Neural Nets
+# Bank Loan Approval Prediction Using Artificial Neural Networks
 
 ## Tasks
 
